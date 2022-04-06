@@ -123,7 +123,9 @@ switch($bike){
 
 
 
-    <!-- 1. git clone linkkkk
+    <!-- 
+    sajib
+    1. git clone linkkkk
     2. git status
     3. git add . 
     {sob gula file upload korar jonno- git add .
